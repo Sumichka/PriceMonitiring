@@ -1,0 +1,338 @@
+[
+  {
+    "brand": "щедрий",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "54.99",
+    "price_file2": null
+  },
+  {
+    "brand": "щедрий",
+    "refinement": "рафінована",
+    "volume": "0.75 л",
+    "price_file1": "73.49",
+    "price_file2": null
+  },
+  {
+    "brand": "чумак",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "57.99",
+    "price_file2": null
+  },
+  {
+    "brand": "chuguiv",
+    "refinement": "рафінована",
+    "volume": "0.81 л",
+    "price_file1": "77.99",
+    "price_file2": null
+  },
+  {
+    "brand": "повна",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "229.00",
+    "price_file2": null
+  },
+  {
+    "brand": "aro",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": null,
+    "price_file2": "345.90"
+  },
+  {
+    "brand": "олейна",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "52.99",
+    "price_file2": null
+  },
+  {
+    "brand": "aro",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": null,
+    "price_file2": "60.50"
+  },
+  {
+    "brand": "metro",
+    "refinement": "рафінована",
+    "volume": "1.00 л",
+    "price_file1": null,
+    "price_file2": "69.50"
+  },
+  {
+    "brand": "bunge",
+    "refinement": "рафінована",
+    "volume": "10.00 л",
+    "price_file1": null,
+    "price_file2": "1109.00"
+  },
+  {
+    "brand": "олія соняшникова «премія»® нерафінована виморожена",
+    "refinement": "нерафінована",
+    "volume": "0.85 л",
+    "price_file1": "69.99",
+    "price_file2": null
+  },
+  {
+    "brand": "стожар",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "259.00",
+    "price_file2": null
+  },
+  {
+    "brand": "повна",
+    "refinement": "нерафінована",
+    "volume": "0.85 л",
+    "price_file1": "63.49",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова «премія»® рафінована",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "234.00",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова королівський смак рафінована",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "279.00",
+    "price_file2": null
+  },
+  {
+    "brand": "майола",
+    "refinement": "нерафінована",
+    "volume": "0.85 л",
+    "price_file1": "65.99",
+    "price_file2": null
+  },
+  {
+    "brand": "чумак",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "519.00",
+    "price_file2": null
+  },
+  {
+    "brand": "щедрий",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "479.00",
+    "price_file2": null
+  },
+  {
+    "brand": "щедрий",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "81.99",
+    "price_file2": "79.20"
+  },
+  {
+    "brand": "garna",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "224.00",
+    "price_file2": null
+  },
+  {
+    "brand": "запашна",
+    "refinement": "нерафінована",
+    "volume": "1.00 л",
+    "price_file1": "99.00",
+    "price_file2": null
+  },
+  {
+    "brand": "олейна",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "529.00",
+    "price_file2": "454.90"
+  },
+  {
+    "brand": "чумак",
+    "refinement": "рафінована",
+    "volume": "0.90 л",
+    "price_file1": "89.49",
+    "price_file2": "86.70"
+  },
+  {
+    "brand": "олейна",
+    "refinement": "рафінована",
+    "volume": "1.80 л",
+    "price_file1": "189.00",
+    "price_file2": "183.90"
+  },
+  {
+    "brand": "олейна",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "91.99",
+    "price_file2": null
+  },
+  {
+    "brand": "chuguiv",
+    "refinement": "рафінована",
+    "volume": "1.00 л",
+    "price_file1": "58.99",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова «премія»® рафінована",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "41.99",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова королівський смак рафінована",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "53.49",
+    "price_file2": null
+  },
+  {
+    "brand": "mantova",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": null,
+    "price_file2": "233.09"
+  },
+  {
+    "brand": "олія соняшникова королівський смак рафінована",
+    "refinement": "рафінована",
+    "volume": "1.00 л",
+    "price_file1": "93.99",
+    "price_file2": null
+  },
+  {
+    "brand": "sania",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "83.49",
+    "price_file2": null
+  },
+  {
+    "brand": "майола",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "369.00",
+    "price_file2": "389.90"
+  },
+  {
+    "brand": "aro",
+    "refinement": "нерафінована",
+    "volume": "0.85 л",
+    "price_file1": null,
+    "price_file2": "63.30"
+  },
+  {
+    "brand": "майола",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "65.99",
+    "price_file2": "72.80"
+  },
+  {
+    "brand": "повна",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "60.99",
+    "price_file2": null
+  },
+  {
+    "brand": "щедрий",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "284.00",
+    "price_file2": null
+  },
+  {
+    "brand": "стожар",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "429.00",
+    "price_file2": null
+  },
+  {
+    "brand": "bunge",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": null,
+    "price_file2": "487.90"
+  },
+  {
+    "brand": "олія «стожар» соняшникова рафінована",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "82.99",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова «премія»® рафінована",
+    "refinement": "рафінована",
+    "volume": "5.00 л",
+    "price_file1": "379.00",
+    "price_file2": null
+  },
+  {
+    "brand": "олейна",
+    "refinement": "рафінована",
+    "volume": "3.00 л",
+    "price_file1": "299.00",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова «премія»® рафінована",
+    "refinement": "рафінована",
+    "volume": "1.80 л",
+    "price_file1": "144.00",
+    "price_file2": null
+  },
+  {
+    "brand": "олія соняшникова «премія»® рафінована",
+    "refinement": "рафінована",
+    "volume": "0.85 л",
+    "price_file1": "65.99",
+    "price_file2": null
+  },
+  {
+    "brand": "щедрий",
+    "refinement": "нерафінована",
+    "volume": "0.85 л",
+    "price_file1": "81.99",
+    "price_file2": null
+  },
+  {
+    "brand": "garna",
+    "refinement": "нерафінована",
+    "volume": "0.50 л",
+    "price_file1": "224.00",
+    "price_file2": null
+  },
+  {
+    "brand": "екород",
+    "refinement": "рафінована",
+    "volume": "0.50 л",
+    "price_file1": "169.00",
+    "price_file2": null
+  },
+  {
+    "brand": "чумак",
+    "refinement": "нерафінована",
+    "volume": "0.90 л",
+    "price_file1": "99.00",
+    "price_file2": null
+  },
+  {
+    "brand": "golden",
+    "refinement": "рафінована",
+    "volume": "0.24 л",
+    "price_file1": "134.00",
+    "price_file2": null
+  }
+]
